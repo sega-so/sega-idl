@@ -1,7 +1,16 @@
-# Mainnet
+# Solana Mainnet
 
 ## CpSwap
 
 | Name               | Program                                        |
 |--------------------|------------------------------------------------|
-| CpSwap             | `SegamCm1E4RYpYrsFKWW6Go4ZTQtNfUQ4i5VW1eNe1w`  |
+| CpSwap             | `SegaXNnoXYTZiqUt9Xn2XqGcL56b25yzXLuJSpadcMu`  |
+
+
+# Sonic Mainnet
+
+## CpSwap
+
+| Name               | Program                                        |
+|--------------------|------------------------------------------------|
+| CpSwap             | `SegazTQwbYWknDZkJ6j2Kgvm5gw3MrHGKtWstZdoNKZ`  |
