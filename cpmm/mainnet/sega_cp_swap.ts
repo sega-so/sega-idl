@@ -339,7 +339,7 @@ export type SegaCpSwap = {
           ],
           "writable": true,
           "signer": true,
-          "address": "Ajk8d9bERSaFdeoT1d8JUVfaDayrYLnAdgeB47TFMUaG"
+          "address": "2t1hV2YqnDCPuJZqr7Fy8oAygGwZE5Q9uaQzpLC1QryJ"
         },
         {
           "name": "ammConfig",
@@ -867,7 +867,7 @@ export type SegaCpSwap = {
           "docs": [
             "create pool fee account"
           ],
-          "address": "2HbjxVVKJ7Ct72Rcd8WK4VTqmwTXL5aAggkH1CHGFGmh"
+          "address": "BLxynZeHE123MmQgNJZiV1pwW4VYh46oZYyC66xwmtTY"
         },
         {
           "name": "observationState",
@@ -1269,7 +1269,7 @@ export type SegaCpSwap = {
             "The amm config owner or admin"
           ],
           "signer": true,
-          "address": "Ajk8d9bERSaFdeoT1d8JUVfaDayrYLnAdgeB47TFMUaG"
+          "address": "2t1hV2YqnDCPuJZqr7Fy8oAygGwZE5Q9uaQzpLC1QryJ"
         },
         {
           "name": "ammConfig",
@@ -1315,7 +1315,7 @@ export type SegaCpSwap = {
         {
           "name": "authority",
           "signer": true,
-          "address": "Ajk8d9bERSaFdeoT1d8JUVfaDayrYLnAdgeB47TFMUaG"
+          "address": "2t1hV2YqnDCPuJZqr7Fy8oAygGwZE5Q9uaQzpLC1QryJ"
         },
         {
           "name": "poolState",
